@@ -1,2 +1,2 @@
-# amazone-main
-Basic Of Amazone website.
+# amazon
+amzon wesite
